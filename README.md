@@ -1,1 +1,1 @@
-# Lampiran-Dokumentasi-Praktik-Sistem-Tertanam-Modul-1
+# Lampiran-Dokumentasi-Praktik-Sistem-Tertanam-Jobsheet-1 Pengenalan Arsitektur FPGA, Artix-7, dan AMD Vivado Design Suite
